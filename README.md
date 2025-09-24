@@ -1,3 +1,4 @@
+1
 # Jellyfin Media Player
 
 Desktop client using jellyfin-web with embedded MPV player. Supports Windows, Mac OS,
